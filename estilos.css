@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: "#000000";
+}
+
+@media (min-width: 330px) {
+  body {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 515px) {
+  body {
+    font-size: 17px;
+  }
+}
