@@ -14,8 +14,35 @@ body {
   }
 }
 
+@media (min-width: 430px) {
+  body {
+    font-size: 16px;
+  }
+}
+
 @media (min-width: 515px) {
   body {
     font-size: 17px;
+  }
+}
+@media (min-width: 565px) {
+  body {
+    font-size: 18px;
+  }
+}
+@media (min-width: 597px) {
+  body {
+    font-size: 18.5px;
+  }
+}
+
+@media (min-width: 600px) {
+  body {
+    font-size: 18.5px;
+  }
+}
+@media (min-width: 611px) {
+  body {
+    font-size: 19px;
   }
 }
