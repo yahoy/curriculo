@@ -14,36 +14,36 @@ body {
 
 @media (min-width: 341px) {
   body {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 
 @media (min-width: 420px) {
   body {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
 @media (min-width: 515px) {
   body {
-    font-size: 17px;
+    font-size: 15px;
   }
 }
 @media (min-width: 565px) {
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
 @media (min-width: 611px) {
   body {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
 
 @media (min-width: 640px) {
   body {
-    font-size: 19px;
-  }
+    font-size: 18px;
+}
 }
