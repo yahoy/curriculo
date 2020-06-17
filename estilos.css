@@ -3,7 +3,7 @@ body {
   background-color: "#000000";
 }
 
-@media (min-width: 330px) {
+@media (min-width: 341px) {
   body {
     font-size: 14px;
   }
@@ -32,8 +32,7 @@ body {
   }
 }
 
-  }
-}
+
 @media (min-width: 640px) {
   body {
     font-size: 19px;
